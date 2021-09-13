@@ -4,4 +4,4 @@
  ajslkjsdlkasldkksa
  askdlkdkasa 
   
-  [loremipsum] (http://google.com)
+  [lorem] (http://google.com)
